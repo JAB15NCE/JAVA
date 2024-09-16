@@ -3,6 +3,14 @@
 //CS&145
 //06/07/2022
 
+
+//Summary:
+//This program creates an "Anagrams" class that allows generating anagrams from a given phrase using a provided dictionary of valid words.
+// -The `getWords` method filters and returns words from the dictionary that can be made from the input phrase.
+// -The `print` methods find and display all possible anagrams of the input phrase, with or without a limit on the number of words.
+// -The private helper method recursively builds anagrams by subtracting letters from the input phrase and adding words to the solution.
+
+
 import java.util.*;
 
 
