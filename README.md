@@ -1,2 +1,2 @@
-# JAVA
-Java
+# Java Programming Class Assignments Collection
+This repository showcases a series of Java programming assignments completed during my coursework. Each project highlights my ability to collaborate effectively with peers and achieve the desired objectives through problem-solving, teamwork, and efficient coding practices. These assignments demonstrate a solid understanding of Java fundamentals, as well as my capacity to contribute meaningfully to software development projects. 
